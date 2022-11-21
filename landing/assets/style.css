@@ -1,0 +1,64 @@
+.section { margin-top: 10px; overflow: hidden; border:1px solid rgba(0,0,0,0.1); padding: 10px; margin: 20px }
+.section2 { margin-top: 10px; overflow: hidden; border:1px solid rgba(0,0,0,0.1); padding: 5px 40px; margin: 20px }
+.logo { width: 190px;  }
+h1 { padding-top: 13px; font-weight: normal; font-family: 'Lalezar'; font-size: 65px; text-align: center; color: black  }
+h2 { padding-top: 13px; font-weight: normal; font-family: 'Lalezar'; font-size: 55px; text-align: center; color: black; padding-top: 0px; color: red  }
+h3 { padding-top: 13px; font-weight: normal; font-family: 'Lalezar'; font-size: 65px; text-align: center; color: black; padding-top: 0px; color: black;  }
+.title { width: 100%; min-height: 40px; background-color: red; color:white; font-size: 30px; text-align: center; font-family: 'Changa'; font-weight: bold; padding: 18px 0px }
+.mrg-btm { margin-bottom: 10px !important  }
+.p1 { font-family: 'Changa'; font-weight: bold; font-size: 35px; text-align: center;  }
+.img-thumbnail { margin-bottom: 10px  }
+button { font-family:'Lalezar'; font-size: 45px !important; background-color: rgba(0,255,0,0.3); border:5px solid white !important;   }
+input { font-size: 26px !important; font-weight: bold; font-family: 'Changa'; height: 72px !important;  }
+select { font-size: 26px !important; font-weight: bold; font-family: 'Changa'; height: 72px !important;  }
+.form1 { padding-top: 10px; padding-bottom: 20px  }
+.web-img { width: 60% !important;   }
+.msg1 { font-size: 30px !important; font-weight: bold; font-family: 'Changa'; text-align: center !important;  }
+.msg2 { font-size: 30px !important; font-weight: bold; font-family: 'trebuchet ms'; text-align: center !important;  }
+
+.title2 { width: 100%; min-height: 40px; background-color: red; color:white; font-size: 25px; text-align: center; font-family: 'Changa'; font-weight: bold; padding: 18px 0px }
+.p2 { font-family: 'Lalezar'; font-weight: bold; font-size: 60px; text-align: center;  }
+h4 { padding-top: 13px; font-weight: normal; font-family: 'Lalezar'; font-size: 65px; text-align: center; color: black; padding-top: 0px; color: black;  }
+
+@media only screen and (max-width: 1000px)
+{
+	h2 {  font-size: 65px;  }
+	input { font-size: 36px !important; font-weight: bold; font-family: 'Changa'; height: 72px !important;  }
+	.title { font-size: 60px; }
+
+	.title2 { font-size: 50px; }
+}
+
+
+.description { width: 100% ; min-height: 100px; border:1px solid rgba(0,0,0,0.2); padding: 20px; font-family: 'Changa';  }
+.p3 { font-family: 'Changa'; font-weight: bold; font-size: 25px; text-align: center;  }
+
+
+.causes .title {  font-size: 20px !important; }
+
+
+.pricetable  { font-family: 'Changa'; font-weight: bold; font-size: 38px; width: 100%; color: white; border-radius: 5px; margin-top: 10px    }
+.pricetable td { border: 1px solid white; padding: 10px; text-align: center;  }
+.pricetabledh1 { background: rgba(0,255,0,0.2)  }
+.pricetabledh2 { background: rgba(0,255,0,0.4)  }
+.pricetabledh3 { background: rgba(0,255,0,0.6)  }
+.pricebarre {  text-decoration: line-through  red; }
+.pricesepare { padding: 0 10px }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
