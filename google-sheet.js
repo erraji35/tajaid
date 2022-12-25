@@ -30,7 +30,7 @@ $("#orderform1,#orderform2").submit(function(event){
 
     // Fire off the request to /form.php
     request = $.ajax({
-        url: "https://script.google.com/macros/s/AKfycbyS5FRxa89r1wAJRBaoHtdEsKEbRDApwTdcSoS_mQluzX60favjaEus7EBfuFbolAFA/exec",
+        url: "https://script.google.com/macros/s/AKfycbzTna4_QSnN8h7xW-xJgos_BaQpb-qTsnIOs4M4ztciG8rvSiOUGK0IplOXBFWTDw/exec",
         type: "post",
         data: serializedData
     });
